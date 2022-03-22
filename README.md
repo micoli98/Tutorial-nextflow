@@ -1,7 +1,7 @@
 # Tutorial BLAST Nextflow
 Exercise for *Nextflow* learning that allow to BLAST 5 short sequences against a database created from a genome. 
 
-Reference: [Exercise] (https://bioinformaticsworkbook.org/dataAnalysis/nextflow/02_creatingAworkflow.html#gsc.tab=0)
+Reference: [Exercise](https://bioinformaticsworkbook.org/dataAnalysis/nextflow/02_creatingAworkflow.html#gsc.tab=0)
 
 ## Git setting
 1. Create a new repository in the profile
